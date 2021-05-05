@@ -25,3 +25,6 @@ nav ul li a {
 	line-height: 55x;
 	margin-left: 20px;
 }
+body {
+	background-image: url("background.png");
+}
