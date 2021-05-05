@@ -30,5 +30,7 @@ body {
 }
 slogan {
 	text-align: center;
-	font-family: Arial;
+	  position: absolute;
+          right: 0;
+	  font-family: Arial;
 }
