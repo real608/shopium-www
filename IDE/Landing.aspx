@@ -49,12 +49,9 @@ Object.defineProperty(window, 'ysmm', {
 </style><style type="text/css">.fc-ab-root { display: none !important } body > div.fc-ab-root { display: none !important } .fbs-auth__container.fbs-auth__adblock { display: none !important } .overlay-34_Kj { display: none !important } .wrapper-3AzfF { display: none !important } .fEy1Z2XT { display: none !important } .nytc---modal-window---windowContainer.nytc---modal-window---isShown.nytc---shared---blackBG { display: none !important } .tp-modal { display: none !important } .tp-backdrop.tp-active { display: none !important } .c-nudge__container.c-gate__container { display: none !important } .c-nudge__container.c-regGate__container { display: none !important } .css-n7r8pg { display: none !important } .css-1bd8bfl { display: none !important } .overlay__59af11e2 { display: none !important } .tp_modal { display: none !important } .tp-backdrop.tp-active { display: none !important } div[class^='sp_message_container'] { display: none !important } div[class^='sp_veil'] { display: none !important } </style></head><body><center><img src="https://raw.githubusercontent.com/real608/shopium/main/resources/images/shopium2021.png?token=ASIVWJ6K2U33CRNBY2C2BB3ASMCEO"></center>
 <center><h4>hey</h4></center>
 <hr>
-<p>Jokes aside, if you've come here to Play Solo in 2008, put this in the command bar: dofile("http://justgoodgame.tk/Files/scripts/2008+/Play_Solo.php?name=", and put anything after name, then press enter.</p>
-<p>If you want to change how your character looks, run the launcher, then choose the "Start Avatar Maker" mode.</p>
+<p>Close this window please</p>
 <br>&nbsp;
-<p>JGG and I are currently trying to create user-friendly join and host pages.</p>
-<br>&nbsp;
-<h5>This page is not finalized and will get some styling later.</h5>
+<h5>JaredYoshi is the best</h5>
 
 <div style="text-align:right;position:fixed;bottom:3px;right:3px;width:100%;z-index:999999;cursor:pointer;line-height:0;display:block;"><a target="_blank" href="https://www.freewebhostingarea.com/" title="Free Web Hosting with PHP5 or PHP7"><img alt="Free Web Hosting" src="./Landing.aspx_files/poweredby.png" style="border-width: 0px;width: 180px; height: 45px; float: right;"></a></div>
 <!----></body></html>
