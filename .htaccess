@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+
+ # Rewrite the URL to force http.
+ RewriteEngine On
+
+ # redirect to http if needed
+ RewriteCond %{HTTP} !=on
+ RewriteRule ^ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+</IfModule>
