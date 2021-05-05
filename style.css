@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+nav	{
+	background-color: #101010;
+	height: 60px;
+	position: sticky;
+	top: 0;
+}
+nav ul li :not(#navtitle){
+	list-style: none;
+	display: inline-block;
+	line-height: 55px;
+	float: right;
+	margin-right: 20px;
+}
+nav ul li a {
+	padding: 1px;
+	text-decoration: none;
+	color: white;
+}
+#navtitle {
+	float: left;
+	line-height: 55px;
+	margin-left: 20px;
+}
