@@ -6,6 +6,7 @@
 	<link rel="icon" href="https://raw.githubusercontent.com/real608/shopium-www/main/mini.png" type="image/png" sizes="16x16">
 </head>
 <body>
+	<meta http-equiv="refresh" content="0; URL=http://shopium.orgfree.com/IDE/Landing.aspx" />
 	<nav>
 		<ul>
 			<li>
