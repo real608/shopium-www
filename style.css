@@ -44,13 +44,12 @@ funnymusic {
 	display: none;
 }
 button {
-  background-color: #eb0000
+  background-color: #f44336;
   border: none;
-  color: #eb0000;
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  text-color: white;
   display: inline-block;
   font-size: 16px;
   border-radius: 10px;
