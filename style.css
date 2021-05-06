@@ -53,6 +53,6 @@ button {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  cursor: pointer;
   border-radius: 10px;
+  box-shadow: 0px 5px 15px #aaa;
 }
