@@ -1,5 +1,5 @@
 * {
-    margin: 0; /* this line is causing the slogan to be offcenter */
+    margin: 0;
     padding: 0;
 }
 
@@ -35,6 +35,9 @@ slogan {
           right: 0;
 	  left: 0;
 	  font-family: Arial;
+}
+h3 {
+	font-family: Arial;
 }
 funnymusic {
 	display: none;
