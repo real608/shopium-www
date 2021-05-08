@@ -8,3 +8,7 @@
  RewriteRule ^ http://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 </IfModule>
+
+<Files /scripts/2008/solo.html>
+AddType application/x-httpd-php .html 
+</Files>
