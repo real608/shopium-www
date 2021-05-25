@@ -1,25 +1,26 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Jekyll Disqus Forum
+name: Shopium Forum
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Forum created in Disqus
+description: Powering Innovation
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Daniel Klco
+author: Shopium Developers
 
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
-baseurl: /Jekyll-Disqus-Forum
+baseurl: /forum
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://klcodanr.github.io/Jekyll-Disqus-Forum
+url: http://shopium.cf/forum
 
 # Exclude system files
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: jekylldisqusforum
+disqus_shortname: shopium-1
 
 # The public key for your disqus application
-disqus_publickey: cVy9WcjLl6TI8EbBAL6PDy8FqMr4gm3HXXfERv7anOYHj3AZAyO2jD66Pqqe71B0
+disqus_publickey: Dzh3BJJ0yEfcadL31UKt2k3TGv5e1phPAQpy3kMPOtKiyeUj0sQEQi6buhxwb0ul
+
