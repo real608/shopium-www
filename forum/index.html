@@ -3,5 +3,19 @@
 </head>
 <body>
 <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+ <script>
+    var clientId = 'da69a5e1e93145a289c1'
+    var clientSecret = 'c7a028166c93810b0175c96c7859894f1bb123f8 '
+    var gitment = new Gitment({
+      id: 'forum',
+      owner: 'real608',
+      repo: 'shopium-www',
+      oauth: {
+        client_id: clientId,
+        client_secret: clientSecret,
+      },
+    })
 
+    gitment.render('container')
+  </script>
 </body>
