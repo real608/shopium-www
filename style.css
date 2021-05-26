@@ -39,6 +39,13 @@ slogan {
 	  font-family: Arial;
 }
 
+a:active, a:focus {
+  outline: 0;
+  border: none;
+  -moz-outline-style: none;
+  color: white;
+}
+
 /*funnymusic {
 	display: none;
 }*/
