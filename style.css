@@ -44,6 +44,10 @@ a:active, a:focus {
   border: none;
   -moz-outline-style: none;
   color: white;
+a:link {color:#FFF;}      /* unvisited link */
+a:visited {color:#FFF;}  /* visited link */
+a:hover {color:#FFF;}  /* mouse over link */
+a:active {color:#FFF;}  /* selected link */
 }
 
 /*funnymusic {
