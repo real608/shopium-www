@@ -39,15 +39,10 @@ slogan {
 	  font-family: Arial;
 }
 
-a:active, a:focus {
-  outline: 0;
-  border: none;
-  -moz-outline-style: none;
-  color: white;
-a:link {color:#FFF;}      /* unvisited link */
-a:visited {color:#FFF;}  /* visited link */
-a:hover {color:#FFF;}  /* mouse over link */
-a:active {color:#FFF;}  /* selected link */
+a:link
+{
+ color:#FFFFFF;
+ text-decoration:none;
 }
 
 /*funnymusic {
