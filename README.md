@@ -1,1 +1,3 @@
-The core components of the website of Shopium.
+## Welcome to Shopium Website
+
+Heres the source code of the website
