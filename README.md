@@ -1,3 +1,3 @@
-## Welcome to Shopium Website
+## shopium.cf
 
-Heres the source code of the website
+The pages that make up shopium.cf as it currently is
