@@ -7,4 +7,4 @@ function replace(element, from, to) {
     }
 };
 
-replace(document.body, new RegExp("shit", "swear"), "brown stuff");
+replace(document.body, new RegExp("shit", "g"), "brown stuff");
