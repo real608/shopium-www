@@ -7,4 +7,11 @@ function replace(element, from, to) {
     }
 };
 
+// go sex, yeah yeah, go sex, yeah
+
 replace(document.body, new RegExp("shit", "g"), "brown stuff");
+replace(document.body, new RegExp("penis", "mans worm"), "mans worm");
+replace(document.body, new RegExp("pussy", "kitty"), "cat");
+replace(document.body, new RegExp("fuck", "love"), "love");
+replace(document.body, new RegExp("penis", "mans worm"), "mans worm");
+replace(document.body, new RegExp("jared", "best guy ever"), "best guy ever");
