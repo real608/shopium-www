@@ -92,9 +92,11 @@ plr.Name = prefix .. suffix
 
 while true do
     wait(0.001)
-    if plr.Character.Humanoid.Health == 0 then
+    if plr.Character.Humanoid.Health <= 0 then
         wait(5)
-        plr:LoadCharacter()
-        print("LocalPlayer was killed.")
+        plr:LoadCharacter(true)
+    elseif plr.Character.Parent  == nil then 
+      wait(5) 
+      plr:LoadCharacter(true) 
     end
 end
