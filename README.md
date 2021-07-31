@@ -1,6 +1,6 @@
 ## shopium.cf
 
-The pages that make up shopium.cf as it currently is
+Old static Shopium site
 
 ## Shopium Launcher
 
